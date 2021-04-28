@@ -15,5 +15,5 @@ we choose pytest bdd framework for performing testcase
 we also need to install chromedriver , geckodriver according to the version of your browser
 
  note : all the testcase are written in folder name tests,
-        under tests folder we a feature file and step_defs file corrosponding to feature file
-        we also make file name webdirverfactory so by this we invoke our browser and perfom further cases
+        under tests folder we have a feature file and step_defs file corrosponding to feature file
+        we also make file name webdirverfactory so by this file we invoke the browser and perfom further cases
