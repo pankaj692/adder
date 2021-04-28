@@ -1,0 +1,51 @@
+[ {
+  "uid" : "a6c725287a9ec5f9",
+  "name" : "user should see the Aim login screen",
+  "time" : {
+    "start" : 1619436014151,
+    "stop" : 1619436016792,
+    "duration" : 2641
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "791e03958bc85004",
+  "name" : "user created channel second time",
+  "time" : {
+    "start" : 1619436053556,
+    "stop" : 1619436085077,
+    "duration" : 31521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1334da84e5d5d5aa",
+  "name" : "user verify login done sucessfully or not",
+  "time" : {
+    "start" : 1619436016798,
+    "stop" : 1619436021993,
+    "duration" : 5195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b960c045bf0803cc",
+  "name" : "user created channel first time",
+  "time" : {
+    "start" : 1619436021999,
+    "stop" : 1619436053551,
+    "duration" : 31552
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bd6d28d0406a1e",
+  "name" : "user select the batch mode and delete all the channel",
+  "time" : {
+    "start" : 1619436085086,
+    "stop" : 1619436103932,
+    "duration" : 18846
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,343 @@
+{
+  "uid" : "b960c045bf0803cc",
+  "name" : "user created channel first time",
+  "fullName" : "features\\batch_channel_delete.feature:user created channel first time",
+  "time" : {
+    "start" : 1619436021999,
+    "stop" : 1619436053551,
+    "duration" : 31552
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Then user verify channel heading",
+      "time" : {
+        "start" : 1619436021999,
+        "stop" : 1619436022182,
+        "duration" : 183
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3ee55293aed0ba8e",
+        "name" : "screenshot",
+        "source" : "3ee55293aed0ba8e.png",
+        "type" : "image/png",
+        "size" : 148820
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user click on channel and verify the channel page is open or not",
+      "time" : {
+        "start" : 1619436022183,
+        "stop" : 1619436024486,
+        "duration" : 2303
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "af1313f29d2256b1",
+        "name" : "Invalid Credential",
+        "source" : "af1313f29d2256b1.png",
+        "type" : "image/png",
+        "size" : 78500
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user verify the add channel option",
+      "time" : {
+        "start" : 1619436024487,
+        "stop" : 1619436024677,
+        "duration" : 190
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5c661ec880b6afc7",
+        "name" : "screenshot",
+        "source" : "5c661ec880b6afc7.png",
+        "type" : "image/png",
+        "size" : 78500
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user click on the add channel option",
+      "time" : {
+        "start" : 1619436024677,
+        "stop" : 1619436026844,
+        "duration" : 2167
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user add channel name \"Pankaj_channel\"",
+      "time" : {
+        "start" : 1619436026846,
+        "stop" : 1619436028957,
+        "duration" : 2111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user add description \"try and test description\"",
+      "time" : {
+        "start" : 1619436028958,
+        "stop" : 1619436031041,
+        "duration" : 2083
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user add location \"New Delhi\"",
+      "time" : {
+        "start" : 1619436031043,
+        "stop" : 1619436033123,
+        "duration" : 2080
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user select video1",
+      "time" : {
+        "start" : 1619436033124,
+        "stop" : 1619436035203,
+        "duration" : 2079
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user select audio",
+      "time" : {
+        "start" : 1619436035204,
+        "stop" : 1619436037294,
+        "duration" : 2090
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user select usb",
+      "time" : {
+        "start" : 1619436037294,
+        "stop" : 1619436037529,
+        "duration" : 235
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "13be2eef211d882f",
+        "name" : "screenshot",
+        "source" : "13be2eef211d882f.png",
+        "type" : "image/png",
+        "size" : 140221
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user send the channel group not a member of to member of",
+      "time" : {
+        "start" : 1619436037530,
+        "stop" : 1619436041594,
+        "duration" : 4064
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user allow the permission of single user",
+      "time" : {
+        "start" : 1619436041595,
+        "stop" : 1619436043886,
+        "duration" : 2291
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c5b81f65bd2617f4",
+        "name" : "screenshot",
+        "source" : "c5b81f65bd2617f4.png",
+        "type" : "image/png",
+        "size" : 83080
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user disselect the permission of single user",
+      "time" : {
+        "start" : 1619436043886,
+        "stop" : 1619436046123,
+        "duration" : 2237
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4316c07396b1f86f",
+        "name" : "screenshot",
+        "source" : "4316c07396b1f86f.png",
+        "type" : "image/png",
+        "size" : 83191
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user allow the permission of all the user",
+      "time" : {
+        "start" : 1619436046123,
+        "stop" : 1619436048332,
+        "duration" : 2209
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "45b1e92e2291737",
+        "name" : "screenshot",
+        "source" : "45b1e92e2291737.png",
+        "type" : "image/png",
+        "size" : 83173
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user verify the save button",
+      "time" : {
+        "start" : 1619436048332,
+        "stop" : 1619436048501,
+        "duration" : 169
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ea538c438546fbf2",
+        "name" : "screenshot",
+        "source" : "ea538c438546fbf2.png",
+        "type" : "image/png",
+        "size" : 83173
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user save the details",
+      "time" : {
+        "start" : 1619436048501,
+        "stop" : 1619436053551,
+        "duration" : 5050
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 16,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-UB3IPMH"
+  }, {
+    "name" : "thread",
+    "value" : "10256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest-bdd"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "feature",
+    "value" : "we are working on Aim box create and delete the multiple channel together"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b960c045bf0803cc.json",
+  "parameterValues" : [ ]
+}

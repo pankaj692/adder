@@ -1,0 +1,223 @@
+{
+  "uid" : "4bd6d28d0406a1e",
+  "name" : "user select the batch mode and delete all the channel",
+  "fullName" : "features\\batch_channel_delete.feature:user select the batch mode and delete all the channel",
+  "time" : {
+    "start" : 1619436085086,
+    "stop" : 1619436103932,
+    "duration" : 18846
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Then user verify delete batch mode option is present or not",
+      "time" : {
+        "start" : 1619436085086,
+        "stop" : 1619436085255,
+        "duration" : 169
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2de87ed8783e831e",
+        "name" : "screenshot",
+        "source" : "2de87ed8783e831e.png",
+        "type" : "image/png",
+        "size" : 91489
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user click on the batch mode option",
+      "time" : {
+        "start" : 1619436085256,
+        "stop" : 1619436088484,
+        "duration" : 3228
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c00116620cda8cb",
+        "name" : "screenshot",
+        "source" : "c00116620cda8cb.png",
+        "type" : "image/png",
+        "size" : 94806
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user click on the manage checkbox",
+      "time" : {
+        "start" : 1619436088484,
+        "stop" : 1619436091696,
+        "duration" : 3212
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a383b8bc7eb00cf9",
+        "name" : "screenshot",
+        "source" : "a383b8bc7eb00cf9.png",
+        "type" : "image/png",
+        "size" : 94616
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user verify delete selected option is present or not",
+      "time" : {
+        "start" : 1619436091697,
+        "stop" : 1619436091874,
+        "duration" : 177
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f37e21e77df94ee6",
+        "name" : "screenshot",
+        "source" : "f37e21e77df94ee6.png",
+        "type" : "image/png",
+        "size" : 94616
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user click on the delete selected option",
+      "time" : {
+        "start" : 1619436091874,
+        "stop" : 1619436095097,
+        "duration" : 3223
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e12049b59e26fff4",
+        "name" : "screenshot",
+        "source" : "e12049b59e26fff4.png",
+        "type" : "image/png",
+        "size" : 79025
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user verify delete option is occur or not",
+      "time" : {
+        "start" : 1619436095097,
+        "stop" : 1619436095269,
+        "duration" : 172
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "656182f22a99a330",
+        "name" : "screenshot",
+        "source" : "656182f22a99a330.png",
+        "type" : "image/png",
+        "size" : 79025
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user click on the delete option",
+      "time" : {
+        "start" : 1619436095270,
+        "stop" : 1619436098507,
+        "duration" : 3237
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7f6e3f444b20d3fc",
+        "name" : "screenshot",
+        "source" : "7f6e3f444b20d3fc.png",
+        "type" : "image/png",
+        "size" : 94586
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user click on dashboard",
+      "time" : {
+        "start" : 1619436098507,
+        "stop" : 1619436103932,
+        "duration" : 5425
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "97c181862fdcfe5b",
+        "name" : "screenshot",
+        "source" : "97c181862fdcfe5b.png",
+        "type" : "image/png",
+        "size" : 153487
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 8,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-UB3IPMH"
+  }, {
+    "name" : "thread",
+    "value" : "10256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest-bdd"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "feature",
+    "value" : "we are working on Aim box create and delete the multiple channel together"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bd6d28d0406a1e.json",
+  "parameterValues" : [ ]
+}

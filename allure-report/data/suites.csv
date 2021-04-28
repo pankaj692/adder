@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 26 16:50:53 IST 2021","Mon Apr 26 16:51:25 IST 2021","31521","","","","","","user created channel second time",""
+"passed","Mon Apr 26 16:50:16 IST 2021","Mon Apr 26 16:50:21 IST 2021","5195","","","","","","user verify login done sucessfully or not",""
+"passed","Mon Apr 26 16:50:21 IST 2021","Mon Apr 26 16:50:53 IST 2021","31552","","","","","","user created channel first time",""
+"passed","Mon Apr 26 16:51:25 IST 2021","Mon Apr 26 16:51:43 IST 2021","18846","","","","","","user select the batch mode and delete all the channel",""
+"passed","Mon Apr 26 16:50:14 IST 2021","Mon Apr 26 16:50:16 IST 2021","2641","","","","","","user should see the Aim login screen",""
